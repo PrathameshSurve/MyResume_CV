@@ -1,5 +1,5 @@
 # Prathamesh Surve
-**Computer Science Engineer | Fullstack Java Developer**
+**Computer Science Engineer | Java Fullstack Developer**
 
 **Contact:**
 - Email: prathamsurve101@gmail.com
@@ -9,102 +9,76 @@
 - GitHub: [github.com/PrathameshSurve](https://github.com/PrathameshSurve)
 
 ---
+**Education**
+- **B.E. in Computer Engineering**
+  - Ajeenkya DY Patil School Of Engineering, Pune
+  - June 2020 - May 2023
+  - CGPA: 7.98
+  - Relevant Courses: Java, OS, Computer Networking, C, C++, Data Structures and Algorithms
 
-## Education
-<details>
-<summary>**B.E. in Computer Engineering**</summary>
-- Ajeenkya DY Patil School Of Engineering, Pune
-- June 2020 - May 2023
-- CGPA: 7.98
-- Relevant Courses: Java, OS, Computer Networking, C, C++, Data Structures and Algorithms
-</details>
+- **Post SSC Diploma in Computer Engineering**
+  - Government Polytechnic, Karad
+  - June 2017 - April 2020
+  - Percentage: 82.17
+  - Relevant Courses: HTML/CSS, DBMS, Javascript, Java, Computer Networking, Python
 
-<details>
-<summary>**Post SSC Diploma in Computer Engineering**</summary>
-- Government Polytechnic, Karad
-- June 2017 - April 2020
-- Percentage: 82.17
-- Relevant Courses: HTML/CSS, DBMS, Javascript, Java, Computer Networking, Python
-</details>
-
-<details>
-<summary>**10th SSC**</summary>
-- New English School & Jr. College, Humgaon
-- June 2014 - May 2015
-- Percentage: 91.40
-- Board: Gurukul by Rayat Shikshan Sanstha, Satara (Semi-English)
-</details>
+- **10th SSC**
+  - New English School & Jr. College, Humgaon
+  - June 2014 - May 2015
+  - Percentage: 91.40
+  - Board: Gurukul by Rayat Shikshan Sanstha, Satara (Semi-English)
 
 ---
+**Work Experience**
+- **Web Developer Intern**
+  - Let's Grow More
+  - February 2022 - March 2022 (Virtual Internship)
 
-## Work Experience
-<details>
-<summary>**Web Developer Intern**</summary>
-- Let's Grow More
-- February 2022 - March 2022 (Virtual Internship)
-</details>
+- **Web Developer Intern**
+  - Oasis Infobyte
+  - September 2022 - October 2022 (Virtual Internship)
 
-<details>
-<summary>**Web Developer Intern**</summary>
-- Oasis Infobyte
-- September 2022 - October 2022 (Virtual Internship)
-</details>
-
-<details>
-<summary>**Student Intern**</summary>
-- Happy Visitors Dot Com
-- April 2020 - July 2020 (Internship through college)
-</details>
+- **Student Intern**
+  - Happy Visitors Dot Com
+  - April 2020 - July 2020 (Internship through college)
 
 ---
-
-## Skills
+**Skills**
 - Programming Languages: Java, C++, Javascript
 - Web Technologies: HTML, CSS, SQL
 - Web Development: React, Node.js
 - Tools: Git, Visual Studio Code
 
 ---
+**Projects**
+1. **Vehicle Registration System Using Blockchain**
+   - Developed a blockchain-based web application for vehicle registration and ownership transfer.
+   - Technologies: Ethereum, Solidity, Web3.js
 
-## Projects
-<details>
-<summary>**Vehicle Registration System Using Blockchain**</summary>
-- Developed a blockchain-based web application for vehicle registration and ownership transfer.
-- Technologies: Ethereum, Solidity, Web3.js
-</details>
+2. **Ticket Reservation System for Travelers**
+   - Built a user-friendly web application for booking tickets and generating booking forms.
+   - Technologies: React, HTML, CSS, Firebase
 
-<details>
-<summary>**Ticket Reservation System for Travelers**</summary>
-- Built a user-friendly web application for booking tickets and generating booking forms.
-- Technologies: React, HTML, CSS, Firebase
-</details>
-
-<details>
-<summary>**Inventory Management System**</summary>
-- Designed an inventory management application for tracking product availability.
-- Technologies: Node.js, Express, MongoDB
-</details>
+3. **Inventory Management System**
+   - Designed an inventory management application for tracking product availability.
+   - Technologies: Node.js, Express, MongoDB
 
 ---
-
-## Certificates
+**Certificates**
 - Code Foundation Skill Path (08/2023 - Present) by Codecademy
 - Javascript Algorithms and Data Structures (07/2023 - Present) by freeCodeCamp
 - Google IT Support Program (05/2023 - Present) by Coursera
 
 ---
-
-## Languages
+**Languages**
 - English: Professional Working Proficiency
 - Hindi: Full Professional Proficiency
 - Marathi: Native or Bilingual Proficiency
 
 ---
-
-## Interests
+**Interests**
 - Artificial Intelligence
 - Data Science
 - Competitive Coding
 - Web Designing
 - Open Source Contribution
-</details>
